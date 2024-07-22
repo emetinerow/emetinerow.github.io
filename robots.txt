@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emetinerow.github.io/sitemap
+Sitemap: https://emetinerow.github.io/app/sitemap
+Sitemap: https://emetinerow.github.io/assets/sitemap
+Sitemap: https://emetinerow.github.io/css/sitemap
+Sitemap: https://emetinerow.github.io/includes/sitemap
+Sitemap: https://emetinerow.github.io/item/sitemap
+Sitemap: https://emetinerow.github.io/src/sitemap
